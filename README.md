@@ -2,7 +2,7 @@
 <h1>Pasdigi Client Open License Repository</h1>
 </p>
 <p align="center">
-<img src="https://pasdigi.com/assets/img/logo.png" alt="Pasdigi Logo" width="200">
+<a href="https://pasdigi.com"><img src="https://pasdigi.com/assets/img/logo.png" alt="Pasdigi - Pasar Digital Inovatif" width="200"></a>
 </p>
 
 Pasdigi offers an open license repository for its clients. All licenses within this repository are completely open and accessible to anyone. This means every Pasdigi member can utilize them without exception.
